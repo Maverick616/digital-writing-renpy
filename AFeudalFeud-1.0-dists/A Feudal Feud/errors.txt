@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 1109: cannot assign to operator
+    menu_flag2-5 = False
+     ^
+
+Ren'Py Version: Ren'Py 8.1.0.23051307
+Wed May 17 17:40:19 2023
